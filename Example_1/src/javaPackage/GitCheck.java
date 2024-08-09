@@ -15,7 +15,7 @@ public class GitCheck {
 					{
 						if (ch[i]==ch[j])
 						{
-							count++;	
+							count++; 	
 
 						}
 						
