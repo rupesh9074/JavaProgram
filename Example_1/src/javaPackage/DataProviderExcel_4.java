@@ -20,7 +20,7 @@ public class DataProviderExcel_4 {
 	@Test(priority=3, dataProvider= "datapro1", dataProviderClass= DataProviderExcel_3.class)
 		public void feedData2(String uname, String pwd, String email) {
 			
-			System.out.println(uname+"    "+pwd+"    "+email); 
+			System.out.println(uname+"    "+pwd+"    "+email);  
 			
 			
 		}
