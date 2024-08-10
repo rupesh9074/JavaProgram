@@ -22,6 +22,7 @@ public class DataProviderExcel_4 {
 			
 			System.out.println(uname+"    "+pwd+"    "+email); 
 			
+			
 		}
 
 }
