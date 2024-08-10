@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="javaPackage.DataProvider_Excel2">
+      <class name="javaPackage.DataProviderExcel_4">
         <methods>
-          <include name="rediff" invocation-numbers="0 1"/>
+          <include name="feedData"/>
         </methods>
-      </class> <!-- javaPackage.DataProvider_Excel2 -->
+      </class> <!-- javaPackage.DataProviderExcel_4 -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

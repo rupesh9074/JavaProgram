@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="javaPackage.testNG2"/>
+      
       <class name="javaPackage.TestNG1"/>
     </classes>
   </test> <!-- Test -->
